@@ -17,3 +17,6 @@ has also been uploaded in the repository under the names ml-1m and ml-100k.
 
 To download the dataset click [here](https://grouplens.org/datasets/movielens/latest/)
 
+##### Copyright (c) 2020 Karan Malik
+
+
