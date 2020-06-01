@@ -3,7 +3,7 @@ Python3 implementation of the unsupervised deep learning algorithm Restricted Bo
 
 ## Overview
 
-The Restricted Boltzmann is generative and stochastic artificial neural network that is used to learn probability distributions over a set of inputs.
+The Restricted Boltzmann is a generative and stochastic artificial neural network that is used to learn probability distributions over a set of inputs.
 It can be used both as an Unsupervised or a Supervised algorithm, depending on the task. It comprises of visible nodes (inputs) and hidden nodes, and uses the contrastive divergence algorithm for training. 
 
 It is used as an unsupervised learning algorithm in this task and is implemented using 
